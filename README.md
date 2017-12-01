@@ -1,7 +1,11 @@
 
+<img src='https://github.com/unix-foundation/home/raw/images/unix-foundation_logo-padded.png' width='29%' align='left' alt='unix-foundation_logo-padded.png'>
+<br>
+
 **Unix-foundation** is home to resources of UNIX-founded solutions in free/libre and open source software. Its purpose is to make general-purpose computing and application development efficient by removing the barriers in free/libre and open source software.
 
 See [Background philosophy](Background-philosophy.md) and [Theory](Theory.md) to learn more.
+<br><br><br>
 
 # Members
 
