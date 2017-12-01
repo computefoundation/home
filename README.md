@@ -1,16 +1,14 @@
 
-This is the **Unix-base** home repository.
-
-**Unix-base** is home to resources of UNIX-based solutions in free/libre and open source software. Its purpose is to make general-purpose computing and application development efficient by removing the barriers in free/libre and open source software.
+**Unix-foundation** is home to resources of UNIX-founded solutions in free/libre and open source software. Its purpose is to make general-purpose computing and application development efficient by removing the barriers in free/libre and open source software.
 
 See [Background philosophy](Background-philosophy.md) and [Theory](Theory.md) to learn more.
 
 # Members
 
-Unix-base currently consists of the following members:
+Unix-foundation currently consists of the following members:
 
-* [Linux-shell-base](https://github.com/unix-base/linux-shell-base) -  UNIX home for the GNU/Linux shell
-* [Linux-os-base](https://github.com/unix-base/linux-os-base) - UNIX home for the GNU/Linux operating system
+* [Linux-shell-base](https://github.com/unix-foundation/linux-shell-base) -  UNIX home for the GNU/Linux shell
+* [Linux-os-base](https://github.com/unix-foundation/linux-os-base) - UNIX home for the GNU/Linux operating system
 
 # News
 
