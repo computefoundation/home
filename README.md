@@ -1,11 +1,13 @@
 
-<img src='https://github.com/unix-foundation/home/raw/images/unix-foundation_logo-padded.png' width='29%' align='left' alt='unix-foundation_logo-padded.png'>
-<br>
+<img src='https://github.com/unix-foundation/home/raw/images/unix-foundation_logo-padded.png' width='25%' align='left' alt='unix-foundation_logo-padded.png'>
+<br><br>
 
-**Unix-foundation** is home to resources of UNIX-founded solutions in free/libre and open source software. Its purpose is to make general-purpose computing and application development efficient by removing the barriers in free/libre and open source software.
-
-See [Background philosophy](Background-philosophy.md) and [Theory](Theory.md) to learn more.
+**The Unix Foundation** is a home to resources of UNIX-founded solutions in free/libre and open source software. Its objective is to make general-purpose computing and application development efficient by breaking down the barriers in free/libre and open source software.
 <br><br><br>
+
+General-purpose computing involves all areas of computing known by an everday computer user or application developer. As a result, efficiency is considerably its most significant issue. General-purpose computing today, however, is enitrely inefficient.
+
+General-purpose software is founded on abstract concepts such as file management, application windows, databases, file rendering, word processing, etc. There exist problems in the foundational level of these abstract concepts that either remain unsolved or the solutions to them are scattered. As software inevitably diverges from this foundational level, general-purpose computing becomes difficult and inefficient and the problems still remain in it. The Unix Foundation was created to solve these problems.
 
 # Members
 
