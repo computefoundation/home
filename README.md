@@ -1,5 +1,5 @@
 
-<img src='https://raw.githubusercontent.com/unix-foundation/home/images/unix-foundation_logo-padded.png' width='27%' align='left' alt='unix-foundation_logo-padded.png'>
+<img src='https://raw.githubusercontent.com/unixfoundation/home/images/unixfoundation_logo-padded.png' width='27%' align='left' alt='unixfoundation_logo-padded.png'>
 <br>
 
 **The Unix Foundation** is home to UNIX-founded solutions in free/libre and open source software. Its objective is to make general-purpose computing and application development efficient by breaking down the barriers in free/libre and open source software.
@@ -13,8 +13,8 @@ General-purpose software is founded on abstract concepts such as file management
 
 Unix-foundation currently consists of the following members:
 
-* [Shell](https://github.com/unix-foundation/shell) -  UNIX-founded solutions for the GNU/Linux shell
-* [Gnu-linux](https://github.com/unix-foundation/gnu-linux) - UNIX-founded solutions for the GNU/Linux operating system
+* [Shell](https://github.com/unixfoundation/shell) -  UNIX-founded solutions for the GNU/Linux shell
+* [Gnu-linux](https://github.com/unixfoundation/gnu-linux) - UNIX-founded solutions for the GNU/Linux operating system
 
 # News
 
