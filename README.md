@@ -11,10 +11,10 @@ General-purpose software is founded on abstract concepts such as file management
 
 # Members
 
-Unix-foundation currently consists of the following members:
+The Unix Foundation currently consists of the following members:
 
-* [Shell](https://github.com/unixfoundation/shell) -  UNIX-founded solutions for the GNU/Linux shell
-* [Gnu-linux](https://github.com/unixfoundation/gnu-linux) - UNIX-founded solutions for the GNU/Linux operating system
+* [Shell](https://github.com/unixfoundation/shell) -  Unix-founded solutions for the GNU/Linux shell
+* [Gnu-linux-os](https://github.com/unixfoundation/gnu-linux-os) - Unix-founded solutions for the GNU/Linux operating system
 
 # News
 
