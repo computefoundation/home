@@ -18,5 +18,5 @@ The Unix Foundation currently consists of the following members:
 
 # News
 
-**Android-application-development coming in January. Android-application-development** will be a complete base layer for Android application and server communciation development, removing them for almost any general Android application with a server backend. This base layer will be a Unix-founded solution for Android system and UI and sever communication components, including user accounts, authentication and application configurations.
+**Android-application-development coming in January. Android-application-development** will be a complete base layer for Android application and applicatoin-server communciation development, removing them for almost any general Android application. This base layer will be a Unix-founded solution for Android system and UI and sever communication components, including user accounts, authentication and application configurations.
 
