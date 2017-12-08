@@ -1,20 +1,21 @@
 
 <img src='https://raw.githubusercontent.com/unixfoundation/home/images/unixfoundation_logo-padded.png' width='27%' align='left' alt='unixfoundation_logo-padded.png'>
-<br>
+<br><br>
 
-**The Unix Foundation** is an organization providing the foundation of general-purpose computing through solutions in free/libre and open source software founded on the [Unix philosophy](http://www.linfo.org/unix_philosophy.html).
-<br><br><br><br>
+**The Unix Foundation** is an organization promoting the foundation of general-purpose computing through resources dedicated to providing Unix-founded solutions in free/libre and open source software.
+<br><br><br>
 
-General-purpose computing is used by all computer users. As a result and as computing is relative to time, one of its most significant matters is efficiency. Today it is almost entirely inefficient however.
+General-purpose computing is used by all computer users. As a result, one of its most significant matters is efficiency. Solutions that respect the [Unix philosophy](http://www.linfo.org/unix_philosophy.html) *(the fundamental principles of computing)* and apply to a majority of computer users contribute to this efficiency.
 
-General-purpose computing involves concepts such as file management, application windows, database management, file rendering, application development, etc. Solutions in the foundational layer of these concepts are founded on the Unix philosophy and apply to a majority of computer users. Additionally, they are scattered across different resources. General-purpose computing is made efficient with resources dedicated to these solutions and the ultimate goal of The Unix Foundation is to provide them.
+Today, general-purpose computing is almost entirely inefficient as these solutions are scattered across resources. Developers and general computer users continually research, learn and/or redevelop them to make computing efficient. The ultimate goal of the Unix Foundation is to provide them.
 
 # Members
 
 The Unix Foundation currently consists of the following members:
 
 * [Shell](https://github.com/unixfoundation/shell) -  Unix-founded solutions for the GNU/Linux shell
-* [Gnu-linux-os](https://github.com/unixfoundation/gnu-linux-os) - Unix-founded documentation for the GNU/Linux operating system
+* [Os](https://github.com/unixfoundation/gnu-linux-os) - Unix-founded solutions for the GNU/Linux operating system
+* [Applications](https://github.com/unixfoundation/gnu-linux-os) - Unix-founded solutions for applications
 
 # News
 
