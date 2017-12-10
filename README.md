@@ -11,9 +11,9 @@ General-purpose computing is used by all computer users. As a result, one of its
 
 The Unix Foundation currently consists of the following members:
 
-* [Shell](https://github.com/unixfoundation/shell) -  Unix-founded solutions for the GNU/Linux shell
-* [Os](https://github.com/unixfoundation/gnu-linux-os) - Unix-founded solutions for the GNU/Linux operating system
-* [Applications](https://github.com/unixfoundation/gnu-linux-os) - Unix-founded solutions for applications
+* [Shell](https://github.com/unixfoundation/shell) -  Unix-founded solutions for the shell
+* [Os](https://github.com/unixfoundation/os) - Unix-founded solutions for the GNU/Linux operating system
+* [Applications](https://github.com/unixfoundation/applications) - Unix-founded solutions for applications
 
 # News
 
