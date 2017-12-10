@@ -2,12 +2,10 @@
 <img src='https://raw.githubusercontent.com/unixfoundation/home/images/unixfoundation_logo-padded.png' width='27%' align='left' alt='unixfoundation_logo-padded.png'>
 <br><br>
 
-**The Unix Foundation** is an organization promoting the foundation of general-purpose computing through resources dedicated to providing Unix-founded solutions in free/libre and open source software.
+**The Unix Foundation** is an organization promoting the efficiency of general-purpose computing in GNU/Linux through resources dedicated to providing Unix-founded solutions.
 <br><br><br>
 
-General-purpose computing is used by all computer users. As a result, one of its most significant matters is efficiency. Solutions that respect the [Unix philosophy](http://www.linfo.org/unix_philosophy.html) *(the fundamental principles of computing)* and apply to a majority of computer users contribute to this efficiency.
-
-Today, general-purpose computing is almost entirely inefficient as these solutions are scattered across resources. Developers and general computer users continually research, learn and/or redevelop them to make computing efficient. The ultimate goal of the Unix Foundation is to provide them.
+General-purpose computing is used by all computer users. As a result, one of its most significant matters is efficiency. All computing has a foundational layer and in general-purpose computing it is referred to as the [Unix philosophy](http://www.linfo.org/unix_philosophy.html) *(the fundamental principles of computing)*. The solutions in this layer make general-purpose computing efficient and are constantly developed by GNU/Linux users. The ultimate goal of The Unix Foundation is to make general-purpose computing efficient by providing them.
 
 # Members
 
