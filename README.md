@@ -2,10 +2,10 @@
 <img src='https://raw.githubusercontent.com/unixfoundation/home/images/unixfoundation_logo-padded.png' width='27%' align='left' alt='unixfoundation_logo-padded.png'>
 <br><br>
 
-**The Unix Foundation** is an organization defining and providing the foundation of computing.
+**The Unix Foundation** is an organization defining the foundation of computing.
 <br><br><br><br>
 
-Every type of computing has a foundation derived from fundamental principles of computing known as the [Unix philosophy](http://www.linfo.org/unix_philosophy.html). A foundation is what computing efficiency depends on and each is easily defined except the foundation of general-purpose computing. Efficiency depends on solutions that respect most of the Unix philosophy as these solutions respect multiple paradigms of multiple respects of a specific type of computing simultaneously. These solutions are easily provided in all types of computing except general-purpose as it consists of almost all respects of computing software. In its context, Unix-founded solutions additionally apply to majorities of GNU/Linux users. The purpose of The Unix Foundation is to provide them.
+All software has a foundation derived from fundamental principles of computing, collectively known as the [Unix philosophy](http://www.linfo.org/unix_philosophy.html). Each foundation consists of solutions respecting multiple respects of general-purpose computing simultaneously. The purpose of The Unix Foundation is to provide these solutions.
 
 # Members
 
