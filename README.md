@@ -17,5 +17,5 @@ The Unix Foundation currently consists of the following members:
 
 # News
 
-**Android-application-development coming in January. Android-application-development** will be a Unix-founded solution for Java server-client communication and general Android application development.
+**Android-application-development coming late January. Android-application-development** will be a Unix-founded solution for Java server-client communication and general Android application development. It will be usable for almost any general Android application requiring or not requiring a foundational REST API for user accounts and/or application-specific server-client components.
 
