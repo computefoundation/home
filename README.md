@@ -11,9 +11,9 @@ All software has a foundation derived from fundamental principles of computing, 
 
 The Unix Foundation currently consists of the following members:
 
-* [Shell](https://github.com/unixfoundation/shell) -  Unix-founded solutions for the shell
-* [Os](https://github.com/unixfoundation/os) - Unix-founded solutions for the GNU/Linux operating system
-* [Applications](https://github.com/unixfoundation/applications) - Unix-founded solutions for applications
+* [Shell](https://github.com/unixfoundation/shell) -  Unix-founded script solutions for the shell
+* [Gnu-linux](https://github.com/unixfoundation/gnu-linux) - Unix-founded document solutions for GNU/Linux
+* [Applications](https://github.com/unixfoundation/applications) - Unix-founded document solutions for applications
 
 # News
 
