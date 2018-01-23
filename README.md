@@ -11,7 +11,7 @@ Computing has a foundation derived from its fundamental principles collectively 
 
 The Unix Foundation currently consists of the following members:
 
-* [Shell](https://github.com/unixfoundation/shell) -  Unix-founded script solutions for the shell
+* [General-purpose-computing](https://github.com/unixfoundation/general-purpose-computing) - Unix-founded shell solutions for general-purpose computing
 * [Gnu-linux](https://github.com/unixfoundation/gnu-linux) - Unix-founded document solutions for GNU/Linux
 * [Applications](https://github.com/unixfoundation/applications) - Unix-founded document solutions for applications
 
