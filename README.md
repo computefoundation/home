@@ -1,9 +1,10 @@
 
-<img src='https://raw.githubusercontent.com/computingfoundation/home/images/computingfoundation_logo-padded.png' width='27%' align='left' alt='computingfoundation_logo-padded.png'>
-<br><br>
+<div align='center'>
+	<img src='https://raw.githubusercontent.com/computingfoundation/home/images/computingfoundation_logo-padded.png' width='40%' alt='computingfoundation_logo-padded.png'>
+</div>
+<br><br><br>
 
 **The Computing Foundation** is an organization conglomerating the foundation of computing.
-<br><br><br><br>
 
 Computing has a foundation derived from its fundamental principles collectively known as the [Unix philosophy](http://www.linfo.org/unix_philosophy.html). This foundation is formed by solutions that respect multiple respects of computing. The purpose of The Computing Foundation is to provide these solutions.
 
