@@ -11,7 +11,7 @@ Computing has a foundation derived from its fundamental principles collectively 
 The Computing Foundation currently consists of the following members:
 
 * [General-purpose-computing](https://github.com/computingfoundation/general-purpose-computing) - Unix-founded shell solutions for general-purpose computing
-* [Gnu-linux](https://github.com/computingfoundation/gnu-linux) - Unix-founded document solutions for GNU/Linux
+* [Gnu-linux](https://github.com/computingfoundation/gnu-linux) - Unix-founded document solutions for the GNU/Linux operating system
 * [Applications](https://github.com/computingfoundation/applications) - Unix-founded document solutions for applications
 
 # News
