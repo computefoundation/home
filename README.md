@@ -10,7 +10,7 @@ Computing has a foundation derived from its fundamental principles collectively 
 
 The Computing Foundation currently consists of the following members:
 
-* [General-purpose-computing](https://github.com/computingfoundation/general-purpose-computing) - The foundation of general-purpose computing
-* [Gnu-linux-operating-system-management](https://github.com/computingfoundation/gnu-linux-operating-system-management) - The foundation of GNU/Linux operating system management
-* [Application-management](https://github.com/computingfoundation/application-management) - The foundation of application management
+* [Gnu-linux-use](https://github.com/computingfoundation/gnu-linux-use) - A resource of shell solutions functioning as a foundation for GNU/Linux use.
+* [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management) - A resource of document solutions functioning as a foundation for GNU/Linux management.
+* [Gnu-linux-application-management](https://github.com/computingfoundation/gnu-linux-application-management) - A resource of document solutions functioning as a foundation for GNU/Linux application management.
 
