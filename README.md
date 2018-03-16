@@ -4,7 +4,7 @@
 </div>
 <br><br><br>
 
-Computing has a foundation derived from its fundamental principles collectively known as the [Unix philosophy](http://www.linfo.org/unix_philosophy.html). This foundation is defined by solutions respecting multiple respects of computing. The purpose of The Computing Foundation is to provide these solutions.
+The Computing Foundation is an organization making general-purpose computing easy and efficient by conglomerating its foundation. It defines this foundation as solutions respecting multiple aspects of computing simultaneously. Its objective is to provide them in all respects of general-purpose computing.
 
 # Members
 
