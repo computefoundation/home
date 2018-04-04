@@ -10,7 +10,15 @@ The Computing Foundation is an organization making general-purpose computing eas
 
 The Computing Foundation currently consists of the following members:
 
-* [Gnu-linux-use](https://github.com/computingfoundation/gnu-linux-use) - A resource of shell solutions functioning as a foundation for GNU/Linux use.
-* [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management) - A resource of document solutions functioning as a foundation for GNU/Linux management.
-* [Gnu-linux-application-management](https://github.com/computingfoundation/gnu-linux-application-management) - A resource of document solutions functioning as a foundation for GNU/Linux application management.
+* [Gnu-linux-use](https://github.com/computingfoundation/gnu-linux-use)  
+  A resource of shell solutions functioning as a foundation for GNU/Linux use.
+
+* [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management)  
+  A resource of document solutions functioning as a foundation for GNU/Linux management.
+
+* [Gnu-linux-application-management](https://github.com/computingfoundation/gnu-linux-application-management)  
+  A resource of document solutions functioning as a foundation for GNU/Linux application management.
+
+* [Android-client-server-application-development](https://github.com/computingfoundation/android-client-server-application-development) *(Coming soon)*  
+  A resource of components functioning as a foundation for Android client-server application development.
 
