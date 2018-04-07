@@ -10,8 +10,8 @@ The Computing Foundation is an organization making general-purpose computing eas
 
 The Computing Foundation currently consists of the following members:
 
-* [Gnu-linux-use](https://github.com/computingfoundation/gnu-linux-use)  
-  A resource of shell solutions functioning as a foundation for GNU/Linux use.
+* [Gnu-linux-shell-use](https://github.com/computingfoundation/gnu-linux-shell-use)  
+  A resource of shell solutions functioning as a foundation for GNU/Linux shell use.
 
 * [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management)  
   A resource of document solutions functioning as a foundation for GNU/Linux management.
