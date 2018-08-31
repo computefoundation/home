@@ -13,13 +13,13 @@ It's main focus is to create and provide each solution using the best possible a
 The Computing Foundation currently consists of the following members:
 
 * [Gnu-linux-shell-use](https://github.com/computingfoundation/gnu-linux-shell-use)  
-  A resource of shell solutions functioning as a foundation for GNU/Linux shell use
+  A resource of shell solutions providing a foundation for GNU/Linux shell use
 
 * [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management)  
-  A resource of document solutions functioning as a foundation for GNU/Linux management
+  A resource of document solutions providing a foundation for GNU/Linux management
 
 * [Gnu-linux-application-management](https://github.com/computingfoundation/gnu-linux-application-management)  
-  A resource of document solutions functioning as a foundation for GNU/Linux application management
+  A resource of document solutions providing a foundation for GNU/Linux application management
 
 * [Enterprise-android-application-development](https://github.com/computingfoundation/enterprise-android-application-development) *(Coming soon)*  
   A complete generic enterprise Android app foundation
