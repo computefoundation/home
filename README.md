@@ -4,9 +4,9 @@
 </div>
 <br><br><br>
 
-The Computing Foundation is an organization conglomerating the foundation of general-purpose computing. It defines this as solutions respecting multiple primitive aspects of an area of computing simultaneously, or, solutions making general-purpose computing easy and efficient.
+The Computing Foundation is an organization providing the foundation of general-purpose computing. It provides solutions at the lowest-level of the computing landscape.
 
-It's main focus is to create and provide each solution using the best possible approach. This is what the primary work consists of.
+Its goal is to make all areas of general-purpose computing easy and efficient.
 
 # Members
 
