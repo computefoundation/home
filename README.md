@@ -12,7 +12,7 @@ All solutions of the Computing Foundation follow a strict guideline to maintain 
 
 # Members
 
-* [Gnu-linux-shell-use](https://github.com/computingfoundation/gnu-linux-shell-use)  
+* [Gnu-linux-shell-scripting](https://github.com/computingfoundation/gnu-linux-shell-scripting)  
   A foundation for GNU/Linux shell use
 
 * [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management)  
