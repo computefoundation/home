@@ -4,11 +4,11 @@
 </div>
 <br><br><br>
 
-The Computing Foundation is an organization conglomerating the foundation of general-purpose computing.
+The Computing Foundation is an organization conglomerating the foundation of computing.
 
-Its goal is to provide solutions at the lowest level of the computing landscape to make all higher-level computing easy and efficient.
+Its goal is to provide solutions at the lowest level of the computing landscape to make higher-level computing easy and efficient.
 
-Each solution in each repository strictly follows a code, format and documentation guideline found in the Wiki page of its respective repository.
+All solutions of the Computing Foundation follow a strict guideline to maintain portability and consistent formatting found in the Wiki page of each repository.
 
 # Members
 
