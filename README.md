@@ -1,10 +1,10 @@
 
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/computingfoundation/home/images/computingfoundation_logo-padded.png' width='40%' alt='computingfoundation_logo-padded.png'>
+  <img src='https://raw.githubusercontent.com/computefoundation/home/images/computingfoundation_logo-padded.png' width='40%' alt='computingfoundation_logo-padded.png'>
 </div>
 <br><br><br>
 
-The Computing Foundation is an organization conglomerating the foundation of computing.
+The Compute Foundation is an organization conglomerating foundational solutions of programming.
 
 Its goal is to provide abstract solutions at the lowest level of the computing to make higher-level computing easy and efficient.
 
