@@ -4,11 +4,11 @@
 </div>
 <br><br><br>
 
-The Compute Foundation is an organization conglomerating foundational solutions of programming.
+The Compute Foundation is an organization conglomerating common programming solutions in open source.
 
-Its goal is to provide abstract solutions at the lowest level of the computing to make higher-level computing easy and efficient.
+Its goal is to provide complex solutions that at least 60% of programmers use.
 
-All solutions in the Computing Foundation follow strict guidelines to maintain consistency and stability.
+All solutions also follow standrad guidelines for formatting which exist in the Wiki of each member repository.
 
 # Members
 
