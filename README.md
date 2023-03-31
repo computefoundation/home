@@ -1,26 +1,21 @@
-
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/computefoundation/home/images/computingfoundation_logo-padded.png' width='40%' alt='computingfoundation_logo-padded.png'>
+  <img src='https://raw.githubusercontent.com/computefoundation/home/images/computefoundation_logo-padded.png' width='40%' alt='computefoundation_logo-padded.png'>
 </div>
-<br><br><br>
+<br><br>
 
-The Compute Foundation is an organization conglomerating common low-level solutions in open source programming.
+**The Compute Foundation** is an organization conglomerating foundational solutions in GNU/Linux.
 
-Overall, it's goal is to provide solutions that at least 60% of programmers use.
+# Repositories
 
-All solutions also follow standrad guidelines for formatting. Each guideline exists in the Wiki of each member repository.
+* [Gnu-linux-shell-scripting](https://github.com/computefoundation/gnu-linux-shell-scripting)  
+  Foundational solutions for programming in the GNU/Linux shell environment
 
-# Members
+* [Gnu-linux-shell-scripting.packaged-solutions](https://github.com/computefoundation/gnu-linux-shell-scripting.packaged-solutions)  
+  An extension of gnu-linux-shell-scripting for solutions consisting of more than one file
 
-* [Gnu-linux-shell-scripting](https://github.com/computingfoundation/gnu-linux-shell-scripting)  
-  A foundation for GNU/Linux shell use
+* [Gnu-linux-application-management](https://github.com/computefoundation/gnu-linux-application-management)  
+  Foundational solutions for application management in GNU/Linux
 
-* [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management)  
-  A foundation for GNU/Linux management
-
-* [Gnu-linux-application-management](https://github.com/computingfoundation/gnu-linux-application-management)  
-  A foundation for GNU/Linux application management
-
-* [Enterprise-android-application-development](https://github.com/computingfoundation/enterprise-android-application-development) *(Coming soon)*  
-  A foundation for enterprise Android application development
+* [Gnu-linux-management](https://github.com/computefoundation/gnu-linux-management)  
+  Foundational solutions for managing GNU/Linux
 
